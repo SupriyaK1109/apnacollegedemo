@@ -1,4 +1,4 @@
 # apnacollegedemo
-this is my practice repository
+this is my demo repository
 <br>
-Author-Supriya
+Author-Supriya 
